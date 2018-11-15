@@ -27,12 +27,12 @@
 						</li>
 						<li>
 							<div class="slider-info">
-								<img src="assets/images/4.jpg" alt="">
+								<img src="assets/images/7.jpg" alt="">
 							</div>
 						</li>
 						<li>
 							<div class="slider-info">
-								<img src="assets/images/2.jpg" alt="">
+								<img src="assets/images/8.jpg" alt="">
 							</div>
 						</li>
 					</ul>
